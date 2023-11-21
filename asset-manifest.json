@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/fetch-countries/static/css/main.f88923d8.css",
+    "main.js": "/fetch-countries/static/js/main.af02011f.js",
+    "static/media/JosefinSans-Medium.ttf": "/fetch-countries/static/media/JosefinSans-Medium.45a5738c27c1bbbecc0c.ttf",
+    "index.html": "/fetch-countries/index.html",
+    "main.f88923d8.css.map": "/fetch-countries/static/css/main.f88923d8.css.map",
+    "main.af02011f.js.map": "/fetch-countries/static/js/main.af02011f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f88923d8.css",
+    "static/js/main.af02011f.js"
+  ]
+}
